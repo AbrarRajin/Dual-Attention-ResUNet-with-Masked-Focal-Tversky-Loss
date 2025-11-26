@@ -25,7 +25,7 @@ The dataset is publicly available on Google Cloud Storage. For detailed setup an
 
 ---
 
-## 2. S1GFlood
+## 2. S1GFlood dataset
 **S1GFloods** is a global-scale flood detection dataset introduced alongside **DAM-Net** (Differential Attention Metric-based Vision Transformers). The dataset contains high-resolution **paired Sentinel-1 SAR images** (pre-flood and post-flood) covering **42 flood events** worldwide between **2016–2022**, along with pixel-level ground truth flood masks. It includes diverse environments such as rivers, lakes, vegetation, and urban areas, supporting robust SAR-based flood detection research.
 
 This dataset accompanies:
